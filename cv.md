@@ -44,6 +44,30 @@ Below are a few places of work:
 - Training Center *MSLU Evening Courses* - German language (2016-2017)
 - Training Center [Сenter for learning technologies](https://trainingcenter.by/) - Python developer (2017)
 
+### Code example
+Create a function strCount (takes an object as argument) that will count all string values inside an object. For example:
+```
+strCount({
+  first: "1",
+  second: "2",
+  third: false,
+  fourth: ["anytime",2,3,4],
+  fifth:  null
+  })
+  //returns 3
+```
+SOLUTION:
+```
+function strCount(obj){
+  let count = 0;
+  for (key in obj) {
+    if (typeof obj[key] == 'string') count++;
+    if (typeof obj[key] == 'object') count += strCount(obj[key]);
+  }
+  return count;
+}
+```
+
 ### Languages
 - English: B2 (Upper-Intermediate)
 - German: A2 (Pre-Intermediate)
