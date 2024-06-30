@@ -20,3 +20,31 @@ Have experience and good skills in the following programming languages, technolo
 * Front-end build tools: Webpack
 * Version Control Systems: Github, SVN
 * Management Tools: Jira
+
+### Work experience
+Below are a few places of work:
+* **LLC «Bright Solutions»** Software developer
+    * Participation in software development projects for government agencies as a Delphi programmer: working in IDE Delphi 10.1 Berlin, PostgreSQL, supporting tools: SAP Power designer 16.6, SVN 1.13, Jira.
+* **LLC «IT-Lite»** Software developer
+    * development software according to the requirements of the company;
+    * writing additional modules, instruments, development of complex reports;
+    * work with configuration repository;
+    * wide acquaintance with extension technology 1с.
+* **LLC «FlyFishSoft»** Software developer    
+    * Business process automation for B2B. Development of new and revision of the necessary modules for existing programs. Building software systems based on 1C 8.3 and synchronization with sites in Python. Transfer of client companies to more recent versions of 1C. Actual developments on the implementation of the ESCF and denomination for all versions of the 1C platform.
+
+### Education
+* **Minsk State Linguistic University** (2010-2013)
+  * Associate's degree, *specialization:* Modern foreign language
+* **Belarusian National Technical University** (2004-2010)
+  * Bachelor's degree, *specialization:* Information technologies software
+
+### Courses
+- IT school [TeachMeSkills](https://teachmeskills.by/) - Front-End Developer (2020)
+- Training Center *MSLU Evening Courses* - German language (2016-2017)
+- Training Center [Сenter for learning technologies](https://trainingcenter.by/) - Python developer (2017)
+
+### Languages
+- English: B2 (Upper-Intermediate)
+- German: A2 (Pre-Intermediate)
+- Polish: A1 (Elementary)
